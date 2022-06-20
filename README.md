@@ -105,6 +105,9 @@
 
 - **Data Scientist** (April 2018 - November 2020)
 
+#### Seguros Sura
+- **Actuarial Analyst** (April 2017 - April 2018)
+
 ## Education
 - **Cloud Data Engineer** at ITBA Universidad (2020-2021)
 
