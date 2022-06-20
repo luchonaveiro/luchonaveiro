@@ -91,6 +91,11 @@
   <a href="https://fastapi.tiangolo.com/"><img src="https://img.shields.io/badge/fastapi-2a7358.svg?&style=for-the-badge&logo=fastapi&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
+**Prototyping**
+<p align='left'>
+  <a href="https://streamlit.io/"><img src="https://img.shields.io/badge/streamlit-red.svg?&style=for-the-badge&logo=streamlit&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
 **Testing**
 <p align='left'>
   <a href="https://docs.pytest.org/"><img src="https://img.shields.io/badge/pytest-0fa7d1.svg?&style=for-the-badge&logo=pytest&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
