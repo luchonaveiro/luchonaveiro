@@ -114,7 +114,7 @@
 - **Actuarial Analyst** (April 2017 - April 2018)
 
 ## Education
-- **Cloud Data Engineer** at ITBA Universidad (2020-2021)
+- **Cloud Data Engineering** at ITBA Universidad (2020-2021)
 
 - **Actuary** at Universidad de Buenos Aires (2012-2018)
 
